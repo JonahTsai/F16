@@ -1,0 +1,7 @@
+All 3D models published here are released under Creative Commons Attribution-NonCommercial Internationl, v4.0 license.
+
+All rights reserved.
+Jonah Tsai, 2014-2015.
+
+Exception:
+Copyrights of files under ButtonsKnobsLights/Knobs/Kumrik Knobs/* belong to Kumrik of ViperPits. They are also published under Creative Commons Attribution-NonCommercial International v4.0 license.
